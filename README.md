@@ -3,10 +3,10 @@ This project is a Machine Learning Pipeline intended to help data engineers quic
 
 Overview
 ## Components
-Zookeeper
-https://zookeeper.apache.org/
-An open source server for distributed coordination.
-Kafka
+## Zookeeper
+https://zookeeper.apache.org/  
+An open source server for distributed coordination.  
+## Kafka
 https://kafka.apache.org/
 Open source distributed streaming platform
 Users of this project will interact with Kafka in several ways:
